@@ -1,0 +1,12 @@
+id_habilidad,nombre,categoria
+HAB-01,Python,Programación
+HAB-02,SQL,Bases de datos
+HAB-03,Pandas,Análisis de datos
+HAB-04,Machine Learning,Inteligencia artificial
+HAB-05,Estadística,Análisis de datos
+HAB-06,Visualización de datos,Análisis de datos
+HAB-07,JavaScript,Desarrollo web
+HAB-08,React,Desarrollo web
+HAB-09,Docker,DevOps
+HAB-10,Git,Herramientas de desarrollo
+HAB-11,Seguridad informática,Ciberseguridad

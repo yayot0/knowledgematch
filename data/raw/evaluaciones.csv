@@ -1,0 +1,8 @@
+id_evaluacion,id_empleado,id_recurso,calificacion,comentario,fecha
+EVA-01,EMP-003,REC-01,5,Muy práctico para limpiar datos de ventas,2026-08-14
+EVA-02,EMP-007,REC-08,4,Buen nivel; faltaron más ejemplos reales,2026-07-02
+EVA-03,EMP-002,REC-09,4,Útil para el portal de clientes,2026-09-20
+EVA-04,EMP-005,REC-11,3,Algo básico para el equipo de infraestructura,2026-10-05
+EVA-05,EMP-008,REC-09,5,Muy claro y bien explicado,2026-10-28
+EVA-06,EMP-003,REC-06,7,Registro con calificación fuera de rango,2026-11-02
+EVA-07,EMP-099,REC-02,4,Registro de un empleado inexistente,2026-11-10

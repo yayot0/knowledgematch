@@ -1,0 +1,16 @@
+id_recurso,id_habilidad,nivel_que_desarrolla
+REC-01,HAB-03,intermedio
+REC-02,HAB-04,básico
+REC-03,HAB-03,intermedio
+REC-03,HAB-06,básico
+REC-04,HAB-01,básico
+REC-05,HAB-02,intermedio
+REC-06,HAB-05,intermedio
+REC-07,HAB-06,básico
+REC-08,HAB-04,intermedio
+REC-09,HAB-07,intermedio
+REC-10,HAB-08,intermedio
+REC-11,HAB-10,intermedio
+REC-12,HAB-09,intermedio
+REC-13,HAB-08,intermedio
+REC-13,HAB-07,intermedio

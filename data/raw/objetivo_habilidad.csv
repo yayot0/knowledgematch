@@ -1,0 +1,15 @@
+id_objetivo,id_habilidad,nivel_requerido
+OBJ-01,HAB-01,básico
+OBJ-01,HAB-02,intermedio
+OBJ-01,HAB-03,intermedio
+OBJ-01,HAB-04,básico
+OBJ-01,HAB-06,básico
+OBJ-02,HAB-07,intermedio
+OBJ-02,HAB-08,intermedio
+OBJ-02,HAB-10,básico
+OBJ-03,HAB-01,intermedio
+OBJ-03,HAB-04,intermedio
+OBJ-03,HAB-05,intermedio
+OBJ-04,HAB-09,intermedio
+OBJ-04,HAB-10,intermedio
+OBJ-05,HAB-11,intermedio

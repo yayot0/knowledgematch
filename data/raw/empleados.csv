@@ -1,0 +1,9 @@
+id_empleado,nombre,puesto,intereses,id_objetivo,id_proyecto
+EMP-001,Daniel Ruiz,Desarrollador backend junior,"análisis de datos, reportes y visualización",OBJ-01,PRO-01
+EMP-002,  Mariana López,Desarrolladora frontend,"interfaces web, experiencia de usuario",OBJ-02,PRO-02
+EMP-003,Jorge Castillo,Analista de datos,"machine learning, modelos predictivos",OBJ-03,PRO-01
+EMP-004,Sofía Hernández,Practicante de desarrollo,"programación y datos",OBJ-01,PRO-01
+EMP-005,Luis Martínez,Ingeniero de infraestructura,"automatización, contenedores y despliegue",OBJ-04,PRO-03
+EMP-006,Valeria Gómez,Desarrolladora full stack,"seguridad y buenas prácticas",OBJ-05,PRO-02
+EMP-007,Ricardo Torres,Líder técnico,"arquitectura de datos y mentoría",OBJ-03,PRO-01
+EMP-008,Andrea Flores,Desarrolladora junior,"desarrollo web y diseño",OBJ-02,PRO-02

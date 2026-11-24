@@ -1,0 +1,15 @@
+id_recurso,titulo,tipo,descripcion,duracion_horas,nivel
+REC-01,Introducción a Pandas,curso,"Manipulación y análisis de datos con Pandas en Python: DataFrames, limpieza, filtrado, agrupación y unión de tablas para generar reportes",12,intermedio
+REC-02,Introducción a Machine Learning,curso,"Fundamentos de machine learning: aprendizaje supervisado, regresión, clasificación y evaluación de modelos con ejemplos en Python",16,básico
+REC-03,Práctica: proyecto de análisis de ventas,práctica,"Proyecto guiado de análisis de datos: consultar ventas con SQL, procesarlas con Pandas y presentar un dashboard con visualizaciones e indicadores",10,intermedio
+REC-04,Guía de fundamentos de Python,guía,"Material de consulta sobre sintaxis básica de Python: variables, estructuras de control, funciones y listas para programadores que inician",6,básico
+REC-05,  SQL para análisis de datos  ,curso,"Consultas SQL intermedias para análisis: joins, agrupaciones, subconsultas y funciones de ventana sobre bases de datos relacionales",8,Intermedio
+REC-06,Estadística aplicada,curso,"Estadística descriptiva e inferencial aplicada a datos de negocio: medidas de tendencia, distribuciones, correlación y pruebas de hipótesis",10,intermedio
+REC-07,Visualización de datos con Python,curso,"Creación de gráficas y visualizaciones de datos con Python para comunicar resultados de análisis en reportes y dashboards",8,básico
+REC-08,Machine Learning con scikit-learn,curso,"Entrenamiento, validación y ajuste de modelos de machine learning con scikit-learn: pipelines, validación cruzada y métricas",20,intermedio
+REC-09,JavaScript moderno,curso,"JavaScript moderno para desarrollo web: funciones flecha, módulos, promesas, async/await y manipulación del DOM",12,intermedio
+REC-10,React desde cero,curso,"Desarrollo de interfaces web con React: componentes, props, estado, hooks y consumo de APIs",15,intermedio
+REC-11,Guía de Git para equipos,guía,"Flujo de trabajo con Git en equipos de desarrollo: ramas, pull requests, resolución de conflictos y buenas prácticas de commits",4,intermedio
+REC-12,Docker y contenedores,curso,"Creación de imágenes y contenedores con Docker, Docker Compose y despliegue de aplicaciones en entornos de desarrollo",10,intermedio
+REC-13,Práctica: portal web con React,práctica,"Proyecto práctico para construir un portal de clientes con React y JavaScript, integrando formularios y consumo de una API",12,intermedio
+REC-14,Manual interno de buenas prácticas,manual,"Lineamientos internos de SkillUp sobre estilo de código, documentación y revisión entre pares",3,básico

@@ -1,0 +1,6 @@
+id_objetivo,nombre,descripcion
+OBJ-01,Especialización en análisis de datos,"Analizar información de ventas y operaciones con Python, Pandas y SQL, crear visualizaciones y aplicar modelos básicos de machine learning"
+OBJ-02,Desarrollo frontend,"Construir interfaces web modernas con JavaScript y React, trabajando en equipo con control de versiones"
+OBJ-03,Ingeniería de machine learning,"Diseñar, entrenar y evaluar modelos predictivos de machine learning con Python y fundamentos de estadística"
+OBJ-04,DevOps y contenedores,"Automatizar el despliegue de aplicaciones con Docker y gestionar el código con Git en equipos de desarrollo"
+OBJ-05,Especialización en ciberseguridad,"Proteger aplicaciones y servidores, identificar vulnerabilidades y aplicar políticas de seguridad informática"

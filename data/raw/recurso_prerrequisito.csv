@@ -1,0 +1,13 @@
+id_recurso,id_habilidad,nivel_minimo
+REC-01,HAB-01,básico
+REC-02,HAB-01,básico
+REC-03,HAB-01,básico
+REC-03,HAB-02,básico
+REC-05,HAB-02,básico
+REC-07,HAB-01,básico
+REC-08,HAB-01,intermedio
+REC-08,HAB-04,básico
+REC-09,HAB-07,básico
+REC-10,HAB-07,intermedio
+REC-11,HAB-10,básico
+REC-13,HAB-07,intermedio
